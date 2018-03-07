@@ -39,15 +39,16 @@ Install Openssl:
 ---------------
 sudo apt-get install openssl
 
+Install miniupnpc:
+------------------
+sudo apt-get install libminiupnpc-dev
+
+
 Berkeley:
 ---------------------
 sudo apt-get install software-properties-common
 
-
-
-
 sudo add-apt-repository ppa:bitcoin/bitcoin
-
 
 sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
