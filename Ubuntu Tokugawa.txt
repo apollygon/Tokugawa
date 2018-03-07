@@ -43,11 +43,13 @@ Berkeley:
 ---------------------
 sudo apt-get install software-properties-common
 
+Install miniupnpc:
+------------------
+sudo apt-get install libminiupnpc-dev
 
-
-
+Add Bitcoin PPA:
+----------------
 sudo add-apt-repository ppa:bitcoin/bitcoin
-
 
 sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
